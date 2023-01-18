@@ -1,0 +1,10 @@
+{% extends "appestudiantes/base.html" %}
+
+{% block subtitulo %}Lista de Profesores{% endblock subtitulo %}
+
+{% block contenido %}
+<h1>Lista de Profesores</h1>
+<a href="{% url 'crear_profesor' %}">Añadir</a>
+<br>
+
+{% endblock contenido %}
