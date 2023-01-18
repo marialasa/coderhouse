@@ -1,6 +1,6 @@
 # Curso de Python #47635
 
-<h1 align="center"> 💻 Tercera pre-entrega </h1>
+## 💻 Tercera pre-entrega
 
 **Proyecto**
 La página web recrea un sistema de registro académico de profesores, estudiantes y cursos de la Universidad Nacional de Villa María.
